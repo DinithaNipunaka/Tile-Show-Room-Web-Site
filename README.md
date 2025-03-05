@@ -37,8 +37,8 @@ https://github.com/DinithaNipunaka/Tile-Show-Room-Web-Site
  - username:admin
  - password:1234
 - User login
-  -email:dinithanipunaka333@gmail.com
-  -password:1234
+  - email:dinithanipunaka333@gmail.com
+  - password:1234
 ## Contributing
 If you want to contribute, feel free to fork the repository and submit a pull request.
 
