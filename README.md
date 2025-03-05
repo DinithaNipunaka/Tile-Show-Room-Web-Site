@@ -28,10 +28,6 @@ https://github.com/DinithaNipunaka/Tile-Show-Room-Web-Site
    - Using XAMPP or MAMP, place the project folder inside the `htdocs` directory.
    - Start Apache and MySQL services.
 
-4. Open in a browser:
-   ```
-   http://localhost/tile-showroom
-   ```
 ## Login
 - Admin login
   - username:admin
